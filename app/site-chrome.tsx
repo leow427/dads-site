@@ -12,7 +12,7 @@ export const navigation = [
   { label: 'Press', href: '/about-us' },
 ];
 export function Brand() {
-  return <a href="/" className="brand" aria-label="GoCreative Programs home"><span className="brand-flower" aria-hidden="true">✳</span><span>go<span className="brand-creative">creative</span><small>PROGRAMS</small></span></a>;
+  return <a href="/" className="brand" aria-label="GoCreative Programs home"><span>go<span className="brand-creative">creative</span><small>PROGRAMS</small></span></a>;
 }
 export function SiteHeader() {
   const [open, setOpen] = useState(false);
