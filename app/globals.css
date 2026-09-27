@@ -85,3 +85,17 @@
 .mission-section { background: #d3c0f4; }
 .trusted-section { border-bottom-color: #91c4cc; }
 .subpage-heading { border-bottom-color: #9bc77c; }
+
+.ribbon-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex: 0 0 30px;
+  width: 30px;
+  height: 30px;
+}
+.ribbon-icon svg {
+  width: 28px;
+  height: 28px;
+  stroke-width: 2.3;
+}

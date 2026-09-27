@@ -1,7 +1,7 @@
 'use client';
 
 import { useEffect, useRef, useState } from 'react';
-import { ArrowRight, ArrowUpRight, Award, BookOpen, Heart, Headphones, LoaderCircle, Music2, Pause, Play, SkipBack, SkipForward, Sparkles, Volume2, VolumeX } from 'lucide-react';
+import { ArrowRight, ArrowUpRight, Award, BookOpen, Heart, Headphones, LoaderCircle, Music2, Paintbrush, Palette, Pause, Play, SkipBack, SkipForward, Sparkles, Volume2, VolumeX } from 'lucide-react';
 import { Slider } from '@/components/ui/slider';
 import { SiteHeader, SiteFooter } from './site-chrome';
 import TrustedBy from './trusted-by';
@@ -86,7 +86,17 @@ export default function Home() {
           <Sparkles className="floating-note note-two" size={43} strokeWidth={1.4} aria-hidden="true"/>
         </div>
       </section>
-      <div className="joy-ribbon" aria-label="Learn. Sing. Create."><div className="ribbon-track" aria-hidden="true">{[0,1].map(i => <div className="ribbon-copy" key={i}>Learn. <span>♫</span> Sing. <span>♫</span> Create. <span>♫</span> Learn. <span>♫</span> Sing. <span>♫</span> Create. <span>♫</span></div>)}</div><button className="ribbon-pause" onClick={() => setMotionPaused(!motionPaused)} aria-label={motionPaused ? 'Enable animations' : 'Pause animations'} title={motionPaused ? 'Enable animations' : 'Pause animations'}>{motionPaused ? <Play size={13}/> : <Pause size={13}/>}</button></div>
+      <div className="joy-ribbon" aria-label="Learn. Sing. Create.">
+        <div className="ribbon-track" aria-hidden="true">{[0,1].map(i => <div className="ribbon-copy" key={i}>
+          Learn. <span className="ribbon-icon"><BookOpen/></span>
+          Sing. <span className="ribbon-icon"><Music2/></span>
+          Create. <span className="ribbon-icon"><Paintbrush/></span>
+          Learn. <span className="ribbon-icon"><BookOpen/></span>
+          Sing. <span className="ribbon-icon"><Music2/></span>
+          Create. <span className="ribbon-icon"><Palette/></span>
+        </div>)}</div>
+        <button className="ribbon-pause" onClick={() => setMotionPaused(!motionPaused)} aria-label={motionPaused ? 'Enable animations' : 'Pause animations'} title={motionPaused ? 'Enable animations' : 'Pause animations'}>{motionPaused ? <Play size={13}/> : <Pause size={13}/>}</button>
+      </div>
 
       <TrustedBy/>
       <section id="programs" className="programs-section wrap" aria-labelledby="programs-title">
