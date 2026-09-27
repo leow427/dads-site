@@ -72,7 +72,7 @@ export default function Home() {
     <main id="main-content">
       <section className="hero wrap" aria-labelledby="hero-title">
         <div className="hero-copy">
-          <span className="eyebrow"><span className="mini-spark" aria-hidden="true">✳</span> GOCREATIVE PROGRAMS</span>
+          <span className="eyebrow">GOCREATIVE PROGRAMS</span>
           <h1 id="hero-title">Bilingual education<br/>through <span className="hero-emphasis">music, art</span><br/>& creative learning.</h1>
           <p>For over 25 years, GoCreative Programs has helped children, families, schools, libraries, and communities learn through bilingual music, art, movement, storytelling, and hands-on creative experiences.</p>
           <div className="hero-actions"><a href="#programs" className="button button-green">Our programs <ArrowRight size={18}/></a><button className="listen-link" onClick={listenFromHero}><span><Play size={14} fill="currentColor"/></span>Listen to the music</button></div>
@@ -86,7 +86,7 @@ export default function Home() {
           <Sparkles className="floating-note note-two" size={43} strokeWidth={1.4} aria-hidden="true"/>
         </div>
       </section>
-      <div className="joy-ribbon" aria-label="Learn. Sing. Create."><div className="ribbon-track" aria-hidden="true">{[0,1].map(i => <div className="ribbon-copy" key={i}>Learn. <span>✳</span> Sing. <span>♫</span> Create. <span>✳</span> Learn. <span>♫</span> Sing. <span>✳</span> Create. <span>♫</span></div>)}</div><button className="ribbon-pause" onClick={() => setMotionPaused(!motionPaused)} aria-label={motionPaused ? 'Enable animations' : 'Pause animations'} title={motionPaused ? 'Enable animations' : 'Pause animations'}>{motionPaused ? <Play size={13}/> : <Pause size={13}/>}</button></div>
+      <div className="joy-ribbon" aria-label="Learn. Sing. Create."><div className="ribbon-track" aria-hidden="true">{[0,1].map(i => <div className="ribbon-copy" key={i}>Learn. <span>♫</span> Sing. <span>♫</span> Create. <span>♫</span> Learn. <span>♫</span> Sing. <span>♫</span> Create. <span>♫</span></div>)}</div><button className="ribbon-pause" onClick={() => setMotionPaused(!motionPaused)} aria-label={motionPaused ? 'Enable animations' : 'Pause animations'} title={motionPaused ? 'Enable animations' : 'Pause animations'}>{motionPaused ? <Play size={13}/> : <Pause size={13}/>}</button></div>
 
       <TrustedBy/>
       <section id="programs" className="programs-section wrap" aria-labelledby="programs-title">
@@ -121,7 +121,7 @@ export default function Home() {
       </section>
 
       <section id="about" className="about-section wrap" aria-labelledby="about-title">
-        <div className="about-photo-area" data-reveal><figure className="about-photo"><img src="/images/meet-the-duo.jpg" alt="Mi Amigo Hamlet and Alina Celeste smiling together with their guitars" width="750" height="500" loading="lazy"/><figcaption>Mi Amigo Hamlet & Alina Celeste</figcaption></figure><div className="award-badge"><Award size={25}/><span>PARENTS’ CHOICE<br/><strong>Gold Award Winners</strong></span></div><span className="about-spark" aria-hidden="true">✳</span></div>
+        <div className="about-photo-area" data-reveal><figure className="about-photo"><img src="/images/meet-the-duo.jpg" alt="Mi Amigo Hamlet and Alina Celeste smiling together with their guitars" width="750" height="500" loading="lazy"/><figcaption>Mi Amigo Hamlet & Alina Celeste</figcaption></figure><div className="award-badge"><Award size={25}/><span>PARENTS’ CHOICE<br/><strong>Gold Award Winners</strong></span></div></div>
         <div className="about-copy" data-reveal><span className="eyebrow">ABOUT US</span><h2 id="about-title">Alina Celeste &<br/><em>Mi Amigo Hamlet.</em></h2><p className="about-intro">Parents’ Choice Gold Award winners for bilingual music for kids and families.</p><p>Guatemalan-born multimedia artist Hamlet has provided bilingual arts and music programs in the Chicagoland area since 2001. Cuban-American Alina Celeste has taught early childhood music and arts classes and toured internationally since 2009.</p><p>Together, they tour nationwide with Being Bilingual Rocks! concerts, professional development workshops for educators and librarians, and art workshops for families.</p><a href="/about-us" className="text-link">Bios, music & press photos <ArrowRight size={18}/></a></div>
       </section>
 

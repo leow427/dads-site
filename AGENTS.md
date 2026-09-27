@@ -1,6 +1,7 @@
 # GoCreative Programs
 
 - Preserve the existing layout, wording, photographs, navigation, and music player unless the user explicitly asks to change them.
+- Do not use the removed asterisk/starburst logo anywhere, including decorative separators, bullets, and the favicon.
 - Keep the design friendly, colorful, and appropriate for children's music and art programs.
 - After every successful change, check the production build and the affected pages on desktop and mobile, then commit and push to `origin/main` and deploy the existing Vercel app. The user has explicitly requested this workflow; do not ask for confirmation again.
 - Check the production build with `npm run build:vercel`.
