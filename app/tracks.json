@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Happy Land",
+    "album": "Happy Land Is Tierra Feliz",
+    "artist": "Mi Amigo Hamlet",
+    "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c1/18/c3/c118c361-14d7-1594-07f4-dd7afcaf2733/mzaf_8581807811652055452.plus.aac.p.m4a",
+    "cover": "/images/happy-land.jpg",
+    "appleUrl": "https://music.apple.com/us/album/happy-land/1411125178?i=1411125179&uo=4"
+  },
+  {
+    "title": "Guacamole",
+    "album": "Guacamole (Bilingual Version) [feat. Alina Celeste] - Single",
+    "artist": "Mi Amigo Hamlet",
+    "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/38/26/5c/38265cf8-2a2a-4708-85b5-b4df26aa7868/mzaf_7220691181752278930.plus.aac.p.m4a",
+    "cover": "/images/guacamole.jpg",
+    "appleUrl": "https://music.apple.com/us/album/guacamole-bilingual-version-feat-alina-celeste/1561319129?i=1561319130&uo=4"
+  },
+  {
+    "title": "Today Is a Good Day",
+    "album": "Today Is a Good Day",
+    "artist": "Mi Amigo Hamlet",
+    "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/90/b9/9a/90b99a40-8358-a0a3-23a3-2537ef019f28/mzaf_12866886379733558681.plus.aac.p.m4a",
+    "cover": "/images/today-is-a-good-day.jpg",
+    "appleUrl": "https://music.apple.com/us/album/today-is-a-good-day-feat-alina-celeste/1581495765?i=1581495766&uo=4"
+  },
+  {
+    "title": "Hola",
+    "album": "Happy Land Is Tierra Feliz",
+    "artist": "Mi Amigo Hamlet",
+    "src": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/53/76/8e/53768ebc-f98e-2b5a-7429-5b9fc1c5d23b/mzaf_4209595864418375813.plus.aac.p.m4a",
+    "cover": "/images/happy-land.jpg",
+    "appleUrl": "https://music.apple.com/us/album/hola/1411125178?i=1411125188&uo=4"
+  }
+]

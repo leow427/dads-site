@@ -1,0 +1,826 @@
+[
+  {
+    "slug": "new-page",
+    "blocks": [
+      {
+        "type": "button",
+        "text": "book us here!",
+        "href": "mailto:INFO@GOCREATIVEPROGRAMS.COM?bcc=HAMLET%40GOCREATIVEPROGRAMS.COM"
+      },
+      {
+        "type": "text",
+        "html": "\n  <h2><strong>Bilingual Education Through Music, Art &amp; Creative Learning</strong></h2><p>For over 25 years, GoCreative Programs has helped children, families, schools, libraries, and communities learn through bilingual music, art, movement, storytelling, and hands-on creative experiences.</p><p>We create engaging English-Spanish programs that inspire language development, creativity, confidence, cultural connection, and joyful learning.</p><h3>Programs For:</h3><p>• Schools &amp; Early Childhood Centers<br/>• Libraries &amp; Museums<br/>• Park Districts &amp; Community Events<br/>• Family Programs &amp; Concerts<br/>• Professional Development Workshops</p><h3>OUR MISSION </h3><p>GoCreative Programs’ mission is to foster community through bilingualism and the arts, in collaboration with artists, educators, parents, businesses and organizations that share our mission. </p><h3>our vision</h3><p>Our vision is to be the leading organization trusted by libraries, school districts, festivals, artists, nonprofits, businesses, and communities nationwide for delivering exceptional bilingual programs through art and music.</p><p></p><p>We look forward to working with you and making our bilingual world a better one everywhere we go!</p><h3><strong>TRUSTED BY:</strong></h3>\n",
+        "text": "Bilingual Education Through Music, Art & Creative LearningFor over 25 years, GoCreative Programs has helped children, families, schools, libraries, and communities learn through bilingual music, art, movement, storytelling, and hands-on creative experiences.We create engaging English-Spanish programs that inspire language development, creativity, confidence, cultural connection, and joyful learning.Programs For:• Schools & Early Childhood Centers• Libraries & Museums• Park Districts & Community Events• Family Programs & Concerts• Professional Development WorkshopsOUR MISSION GoCreative Programs’ mission is to foster community through bilingualism and the arts, in collaboration with artists, educators, parents, businesses and organizations that share our mission. our visionOur vision is to be the leading organization trusted by libraries, school districts, festivals, artists, nonprofits, businesses, and communities nationwide for delivering exceptional bilingual programs through art and music.We look forward to working with you and making our bilingual world a better one everywhere we go!TRUSTED BY:"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/b75b7826-c94c-4a8f-aa1c-f08a53887d76/Starnet.png",
+        "alt": "",
+        "dimensions": "754x222",
+        "src": "/images/original/2248aff35bdd.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/6737feb0-1cae-420d-a5c7-1fc6f1a7950f/WQPT-PBS.png",
+        "alt": "",
+        "dimensions": "570x176",
+        "src": "/images/original/d3369ea52116.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/e7f35fbf-a3ff-4ad6-8ea5-f3c7c9198f02/MiamiChildrensMuseum.png",
+        "alt": "",
+        "dimensions": "688x158",
+        "src": "/images/original/548fea881541.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/98df5e68-f510-4aa8-9a0e-f2a8d8dcfe55/Alvin+Sherman+Library.png",
+        "alt": "",
+        "dimensions": "624x128",
+        "src": "/images/original/cc37abf51751.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/a123aa46-2934-490c-87a0-2bdefecc7af2/chicagopubliclibrary.png",
+        "alt": "",
+        "dimensions": "500x120",
+        "src": "/images/original/46288c14c537.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/22e21cef-27a4-4ce1-8c47-8ecebc9ee385/logo-text.png",
+        "alt": "",
+        "dimensions": "774x51",
+        "src": "/images/original/2ab398a5513f.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/2370a88f-440c-4311-b754-83e93f99115b/High+Point.png",
+        "alt": "",
+        "dimensions": "141x71",
+        "src": "/images/original/d0d91ac5f939.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/06e3069d-b208-4f7e-bc60-1eb917553fff/cps-logo.png",
+        "alt": "",
+        "dimensions": "1130x592",
+        "src": "/images/original/692263aa62ba.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/e3ca4bdd-7402-4ac1-90d4-4e991ae99e33/West-Town-Logos-05.png",
+        "alt": "",
+        "dimensions": "200x200",
+        "src": "/images/original/bd7d852fc524.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/258d1055-bcab-45c8-896e-ef31ce4aa725/Screenshot+2023-12-06+at+7.49.56%E2%80%AFPM.png",
+        "alt": "",
+        "dimensions": "396x222",
+        "src": "/images/original/8868e7a9b94e.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/1fbdac8f-8e5a-4899-8d15-bdca6c1e791a/HarknessHouse.png",
+        "alt": "",
+        "dimensions": "308x96",
+        "src": "/images/original/fb92939abe18.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/91db410f-915c-4402-90a2-a71c2d8144a6/KentDistrictLibrary.png",
+        "alt": "",
+        "dimensions": "500x120",
+        "src": "/images/original/3a4d39f20b74.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/c55c8bba-0040-493c-b543-d876a6fb53f9/logo.png",
+        "alt": "",
+        "dimensions": "1150x300",
+        "src": "/images/original/9f9a5009c7c7.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/81065b77-719f-4831-b759-b900cae8441a/aab0e6_46fa3e5755cf4a36b37b3d83802f30e9.gif",
+        "alt": "",
+        "dimensions": "304x287",
+        "src": "/images/original/69c13796f3ba.gif"
+      }
+    ]
+  },
+  {
+    "slug": "musicababy",
+    "blocks": [
+      {
+        "type": "button",
+        "text": "EMAIL US HERE TO REGISTER",
+        "href": "mailto:info@gocreativeprograms.com?subject=Sign%20Me%20Up%20For%20M%C3%BAsicaBaby%20Program!"
+      },
+      {
+        "type": "text",
+        "html": "\n  <h1>Choose Your MúsicaBaby Experience</h1><ol><li><h3>MúsicaBaby™ - <strong>Wednesdays · 9:00 AM OR 10:00 AM</strong></h3><h3><strong>Ages 1–3 · Caregiver + Child - </strong>40-minute classes</h3><h3><strong>$30 per child / Drop-In</strong></h3></li></ol><h3><strong>Music · Movement · Language · Literacy</strong></h3><p>Our foundational early-childhood program combines live bilingual music, movement, repetition, literacy and purposeful play to help children develop language while learning alongside their caregiver.</p><p><br/></p><h3>2. MúsicaBaby CREATE™ - <strong>Thursdays · 10:00 AM</strong><br/>    <strong>Ages 1–3 · Caregiver + Child</strong> - 40-minute classes<br/>    <strong>$35 per child / Drop-In</strong></h3><h3><strong>Music · Language · Literacy · Process Art</strong></h3><p>Designed to create, MúsicaBaby CREATIVE builds upon the MúsicaBaby experience by adding simple, hands-on process-based art connected to our songs, vocabulary and weekly themes.</p><p>Children explore materials and create alongside their caregivers—with the emphasis on <strong>exploration and self-expression rather than a perfect finished product.</strong></p>\n",
+        "text": "Choose Your MúsicaBaby ExperienceMúsicaBaby™ - Wednesdays · 9:00 AM OR 10:00 AMAges 1–3 · Caregiver + Child - 40-minute classes$30 per child / Drop-InMusic · Movement · Language · LiteracyOur foundational early-childhood program combines live bilingual music, movement, repetition, literacy and purposeful play to help children develop language while learning alongside their caregiver.2. MúsicaBaby CREATE™ - Thursdays · 10:00 AM Ages 1–3 · Caregiver + Child - 40-minute classes $35 per child / Drop-InMusic · Language · Literacy · Process ArtDesigned to create, MúsicaBaby CREATIVE builds upon the MúsicaBaby experience by adding simple, hands-on process-based art connected to our songs, vocabulary and weekly themes.Children explore materials and create alongside their caregivers—with the emphasis on exploration and self-expression rather than a perfect finished product."
+      },
+      {
+        "type": "text",
+        "html": "\n  <h3><strong> SMALL CLASSES - <em>Space is limited</em></strong></h3><h3><strong>Location:</strong><br/> Big Shoulders Yoga<br/> 1645 W. Chicago Ave.<br/> Chicago, IL</h3><h1>What Your Child Is Building</h1><p>MúsicaBaby is intentionally designed to develop <strong>real language—not simply exposure to another language.</strong></p><h3>Bilingual Language Development</h3><p>Through live music, movement, repetition, books, conversation and creative experiences, children develop:</p><ul><li><p>Spanish and English vocabulary</p></li><li><p>Listening comprehension</p></li><li><p>Expressive language confidence</p></li><li><p>Responsive communication</p></li><li><p>Familiarity with everyday bilingual phrases</p></li></ul><p>We aren&#x27;t simply singing songs. <strong>We use music and creativity as tools for building usable language.</strong></p><h3>Early Literacy Foundations</h3><p>Songs, stories, rhythm and repetition naturally reinforce:</p><ul><li><p>Rhythm and rhyme</p></li><li><p>Sound recognition</p></li><li><p>Vocabulary development</p></li><li><p>Listening and attention</p></li><li><p>Story and language comprehension</p></li></ul><p>These experiences help establish the early foundations children will later use for reading and communication.</p><h3>Movement, Creativity &amp; Exploration</h3><p>Young children learn by <strong>doing</strong>.</p><p>MúsicaBaby uses movement, instruments and purposeful play to encourage participation and discovery. In MúsicaBaby CREATE, children take the next step through sensory-rich process art experiences that encourage experimentation, fine-motor development, decision-making and creative expression.</p><h3>Preschool Readiness</h3><p>Our predictable class structure introduces children to many of the routines they will encounter in preschool:</p><ul><li><p>Circle-time participation</p></li><li><p>Musical transitions</p></li><li><p>Turn-taking</p></li><li><p>Following simple directions</p></li><li><p>Listening and responding</p></li><li><p>Self-regulation through rhythm and movement</p></li><li><p>Creating alongside other children</p></li></ul><p><strong>Playful doesn&#x27;t mean unstructured.</strong> Every part of the experience has a purpose.</p><h1>Where the GoCreative Learning Journey Begins</h1><p>MúsicaBaby isn&#x27;t a stand-alone class.</p><p><strong>It is where the GoCreative learning journey begins.</strong></p><p>What started more than 25 years ago as <strong>VamosTodos – Spanish Through Art &amp; Music</strong> grew into the educational approach behind GoCreative Programs™ today. MúsicaBaby brings that experience to children during some of their most important years for language, social-emotional development and creative discovery. </p><p>As children grow, their GoCreative experiences grow with them:</p><p><strong>MúsicaBaby™</strong><br/> <em>Music · Movement · Language · Literacy</em></p><p><strong>↓</strong></p><p><strong>MúsicaBaby CREATE™</strong><br/> <em>Music · Language · Literacy · Process Art</em></p><p><strong>↓</strong></p><p><strong>CreativeTurtles™ + Bilingual STEAM Explorers</strong><br/> <em>Art · Language · Exploration</em></p><p>From the first song to the first painting, experiment and big idea, the goal remains the same:</p><h3>Learn. Sing. Create.™</h3><h1>The Music Travels Beyond the Classroom</h1><p>Many of the songs used in MúsicaBaby were developed inside real classrooms to reinforce bilingual vocabulary through <strong>rhythm, repetition and melody</strong>.</p><p>Those songs eventually grew beyond the classroom into recordings and live performances. <em>Happy Land is Tierra Feliz</em> was produced by Grammy-winning children&#x27;s music producer Dean Jones and was recognized by <em>Billboard</em> among Latin children&#x27;s music releases. Today, that classroom-tested music also powers our <strong>Being Bilingual Rocks!™</strong> concerts for schools, libraries and communities. </p><h1>Ready to Begin?</h1><p>Whether your child is discovering music and language for the first time or is ready to add paint, collage and creative exploration, there&#x27;s a place to begin.</p><p><strong>MúsicaBaby™ — Wednesdays 9 AND 10 AM</strong><br/><strong>MúsicaBaby CREATE™ — Thursdays 10 AM</strong></p><h3>Come learn, sing and create with us.</h3><p><strong>Space is limited. Contact us to reserve your child&#x27;s spot.</strong></p>\n",
+        "text": "SMALL CLASSES - Space is limitedLocation: Big Shoulders Yoga 1645 W. Chicago Ave. Chicago, ILWhat Your Child Is BuildingMúsicaBaby is intentionally designed to develop real language—not simply exposure to another language.Bilingual Language DevelopmentThrough live music, movement, repetition, books, conversation and creative experiences, children develop:Spanish and English vocabularyListening comprehensionExpressive language confidenceResponsive communicationFamiliarity with everyday bilingual phrasesWe aren't simply singing songs. We use music and creativity as tools for building usable language.Early Literacy FoundationsSongs, stories, rhythm and repetition naturally reinforce:Rhythm and rhymeSound recognitionVocabulary developmentListening and attentionStory and language comprehensionThese experiences help establish the early foundations children will later use for reading and communication.Movement, Creativity & ExplorationYoung children learn by doing.MúsicaBaby uses movement, instruments and purposeful play to encourage participation and discovery. In MúsicaBaby CREATE, children take the next step through sensory-rich process art experiences that encourage experimentation, fine-motor development, decision-making and creative expression.Preschool ReadinessOur predictable class structure introduces children to many of the routines they will encounter in preschool:Circle-time participationMusical transitionsTurn-takingFollowing simple directionsListening and respondingSelf-regulation through rhythm and movementCreating alongside other childrenPlayful doesn't mean unstructured. Every part of the experience has a purpose.Where the GoCreative Learning Journey BeginsMúsicaBaby isn't a stand-alone class.It is where the GoCreative learning journey begins.What started more than 25 years ago as VamosTodos – Spanish Through Art & Music grew into the educational approach behind GoCreative Programs™ today. MúsicaBaby brings that experience to children during some of their most important years for language, social-emotional development and creative discovery. As children grow, their GoCreative experiences grow with them:MúsicaBaby™ Music · Movement · Language · Literacy↓MúsicaBaby CREATE™ Music · Language · Literacy · Process Art↓CreativeTurtles™ + Bilingual STEAM Explorers Art · Language · ExplorationFrom the first song to the first painting, experiment and big idea, the goal remains the same:Learn. Sing. Create.™The Music Travels Beyond the ClassroomMany of the songs used in MúsicaBaby were developed inside real classrooms to reinforce bilingual vocabulary through rhythm, repetition and melody.Those songs eventually grew beyond the classroom into recordings and live performances. Happy Land is Tierra Feliz was produced by Grammy-winning children's music producer Dean Jones and was recognized by Billboard among Latin children's music releases. Today, that classroom-tested music also powers our Being Bilingual Rocks!™ concerts for schools, libraries and communities. Ready to Begin?Whether your child is discovering music and language for the first time or is ready to add paint, collage and creative exploration, there's a place to begin.MúsicaBaby™ — Wednesdays 9 AND 10 AMMúsicaBaby CREATE™ — Thursdays 10 AMCome learn, sing and create with us.Space is limited. Contact us to reserve your child's spot."
+      }
+    ]
+  },
+  {
+    "slug": "business-solutions",
+    "blocks": [
+      {
+        "type": "button",
+        "text": "book here for 2024/2025",
+        "href": "mailto:info@gocreativeprograms.com?cc=hamlet%40gocreativeprograms.com&subject=More%20info%20please!"
+      },
+      {
+        "type": "text",
+        "html": "\n  <h3>Discover the heart of our approach with the simple yet powerful trio: </h3><h3>Learn, Sing, Create. </h3><p><strong>What We Offer</strong></p><p><strong>Bilingual Music &amp; Arts Programs</strong></p><p>Interactive educational experiences for children and families featuring music, movement, storytelling, visual arts, and cultural exploration.</p><p><strong>Early Childhood &amp; Preschool Programs</strong></p><p>Developmentally appropriate bilingual enrichment for infants, toddlers, preschoolers, and early elementary learners.</p><p><strong>School &amp; Community Performances</strong></p><p>High-energy bilingual assemblies, concerts, cultural celebrations, and educational events.</p><p><strong>Workshops &amp; Professional Development</strong></p><p>Training experiences for educators focused on bilingual learning, arts integration, process art, music engagement, and inclusive classroom strategies.</p><p><strong>Family Engagement Experiences</strong></p><p>Programs designed to strengthen family participation in learning through music, creativity, and hands-on bilingual interaction.</p><p><strong>Curriculum &amp; Educational Resources</strong></p><p>Original songs, educational materials, creative activities, bilingual learning tools, and future GoCreative learning products. </p>\n",
+        "text": "Discover the heart of our approach with the simple yet powerful trio: Learn, Sing, Create. What We OfferBilingual Music & Arts ProgramsInteractive educational experiences for children and families featuring music, movement, storytelling, visual arts, and cultural exploration.Early Childhood & Preschool ProgramsDevelopmentally appropriate bilingual enrichment for infants, toddlers, preschoolers, and early elementary learners.School & Community PerformancesHigh-energy bilingual assemblies, concerts, cultural celebrations, and educational events.Workshops & Professional DevelopmentTraining experiences for educators focused on bilingual learning, arts integration, process art, music engagement, and inclusive classroom strategies.Family Engagement ExperiencesPrograms designed to strengthen family participation in learning through music, creativity, and hands-on bilingual interaction.Curriculum & Educational ResourcesOriginal songs, educational materials, creative activities, bilingual learning tools, and future GoCreative learning products."
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/40c279f1-f779-4a27-81e5-9802234525ea/4B20269E-95A6-4FEA-A592-80BC58D4DB29_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "5712x3213",
+        "src": "/images/original/03d6a2622cd2.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/70a65a5f-b6fd-4171-9956-40b728e2cc2a/6019F5E1-1356-4416-97AD-7D96AB2E6538_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "5712x3213",
+        "src": "/images/original/b7533ba3aa45.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/54847ea6-a232-4a83-a3c8-42d7885d6b04/59635264-907C-4644-8AE1-035AAE04968B_1_105_c.jpeg",
+        "alt": "",
+        "dimensions": "1182x665",
+        "src": "/images/original/201e0ac006e5.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/ec79d3bc-48a4-41f6-81df-543282733e33/B769FAD6-DAD7-4703-9923-C208F46487CD_1_105_c.jpeg",
+        "alt": "",
+        "dimensions": "1182x665",
+        "src": "/images/original/9bbc0b9a4fdf.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/b7d71927-da3e-403f-99ce-c723a322ddf1/977C8994-FB3A-4532-A78E-BECFB6C7229C_1_105_c.jpeg",
+        "alt": "",
+        "dimensions": "1182x665",
+        "src": "/images/original/bfda1c68a409.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/f2009ebb-0002-45b4-9a77-cfd365597d7c/3F37A282-051E-4AA6-8F6D-55D61BAD560B_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/81daa2ff36be.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/31c8b1c6-7cba-4da0-9767-e72d9f794488/865B241B-5BB3-46E5-A971-575D9BCE7A59_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/498988a036a0.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/ab8b6204-3cb8-410e-905e-dac2f8a7e556/Screenshot+2023-11-06+at+8.19.16%E2%80%AFPM.png",
+        "alt": "",
+        "dimensions": "2002x1064",
+        "src": "/images/original/5779af4c2af6.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/07f3b4e0-815c-417f-9ce1-978f349e404c/325DB224-D8DA-4FEE-A287-68FD926C9979_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/6387c6af9c53.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/34752b14-3d60-4184-bd90-70ca0e79ee66/EC3B5886-D32F-459F-907D-F21E6BB7D693_1_102_o.jpeg",
+        "alt": "",
+        "dimensions": "2048x1536",
+        "src": "/images/original/f5b92a5596e4.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/cd9871a2-8002-4002-a1b8-4f2bebddff16/D64EDFB2-BE80-497F-AA3A-B1288A011450_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/9b3725b05d8e.jpeg"
+      },
+      {
+        "type": "text",
+        "html": "\n  <h3>curriculum dev. </h3><p>We also develop Music and Spanish language acquisition curriculums for early childhood and elementary school programs. All curriculums adhere to Illinois State Standards and are tailored to clients specific interests and needs. </p><h3><strong>SPANISH &amp; MUSIC LESSON PLANS</strong></h3><h3><strong>Intended Audiences:</strong> Individuals, schools, libraries, museums, organizations, corporations.</h3><h3><strong>Intended Use:</strong> For Infants, Toddlers and Twos, Preschool and Pre-K &amp; 1st grade.</h3>\n",
+        "text": "curriculum dev. We also develop Music and Spanish language acquisition curriculums for early childhood and elementary school programs. All curriculums adhere to Illinois State Standards and are tailored to clients specific interests and needs. SPANISH & MUSIC LESSON PLANSIntended Audiences: Individuals, schools, libraries, museums, organizations, corporations.Intended Use: For Infants, Toddlers and Twos, Preschool and Pre-K & 1st grade."
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/026f0b65-d985-450e-85b8-3fc28ec41a68/E8DF97E1-8A6E-436C-8ACB-734E786152AB_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/870075d4437d.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/00bfcc57-0a06-4c67-86a2-ffaa26c4fab0/A472E5F0-B100-44F9-8CC0-56D84F82F5B8_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/f6c461816dcd.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/7329415d-92b7-4e61-b8ae-67885e35839a/1EC3CBE9-E580-4F01-AE5F-DB47377A741B_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/a20fc53d6f2e.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/2f9d586e-3fc8-4d75-898b-5a69bc62d68b/25DB9FA3-50C5-49FB-A050-A11D8C99498E_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "3781x2127",
+        "src": "/images/original/24308e0a82ed.jpeg"
+      }
+    ]
+  },
+  {
+    "slug": "being-bilingual-rocks",
+    "blocks": [
+      {
+        "type": "button",
+        "text": "book BEING BILINGUAL ROCKS! with alina celeste & Mi amigo hamlet",
+        "href": "mailto:info@gocreativeprograms.com?subject=We'd%20Love%20To%20Book%20You!&bcc=hamlet%40gocreativeprograms.com"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/cb82f5f5-edca-472e-9c37-5010fd4888be/1BDA8176-914D-493C-9B2E-F72B52A08AB9_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "1782x1098",
+        "src": "/images/original/1fd928a74345.jpeg"
+      },
+      {
+        "type": "text",
+        "html": "\n  <h2><strong>We provide Concerts and Creative Bilingual Experiences Nationwide for Libraries, Preschools, School Districts, Festivals, Park Districts, Corporate Events, and More.</strong></h2><p>GoCreative Programs was founded with one mission:</p><p>To make bilingual learning meaningful, artistic, interactive, and accessible for all children and families.</p><p>Led by Mi Amigo Hamlet - Alina Celeste and collaborating artists and educators, our programs combine music, process-based art, movement, storytelling, sensory experiences, and creative play into immersive educational experiences that children genuinely remember.</p><p>For more than two decades, we have served schools, cultural institutions, libraries, park districts, early childhood programs, and communities across the United States through live performances, residencies, workshops, curriculum-based programming, and family engagement experiences.</p><p>Our methodology encourages children to:</p><p>• Learn through creativity</p><p>• Participate actively</p><p>• Build language naturally</p><p>• Explore culture through the arts</p><p>• Strengthen social-emotional connections</p><p>• Develop confidence and curiosity</p><h3></h3>\n",
+        "text": "We provide Concerts and Creative Bilingual Experiences Nationwide for Libraries, Preschools, School Districts, Festivals, Park Districts, Corporate Events, and More.GoCreative Programs was founded with one mission:To make bilingual learning meaningful, artistic, interactive, and accessible for all children and families.Led by Mi Amigo Hamlet - Alina Celeste and collaborating artists and educators, our programs combine music, process-based art, movement, storytelling, sensory experiences, and creative play into immersive educational experiences that children genuinely remember.For more than two decades, we have served schools, cultural institutions, libraries, park districts, early childhood programs, and communities across the United States through live performances, residencies, workshops, curriculum-based programming, and family engagement experiences.Our methodology encourages children to:• Learn through creativity• Participate actively• Build language naturally• Explore culture through the arts• Strengthen social-emotional connections• Develop confidence and curiosity"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/fbec5ea9-6d8d-4618-a945-ee67fddf002d/IMG_7136.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/a0bfceb2e4f3.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/9d6b0668-d13a-4cfe-bc9f-026cd6ecbd21/IMG_8318.png",
+        "alt": "",
+        "dimensions": "4032x3024",
+        "src": "/images/original/c729b034b2a0.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/e2bd24f7-4c44-4c21-935a-d737e3fe44b0/1D72E6C8-4495-4880-8112-04ADA24D7FCB_1_105_c.jpeg",
+        "alt": "",
+        "dimensions": "1182x665",
+        "src": "/images/original/3b05b2d649d9.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/4a0d5713-f70a-4cb3-bb70-247068328b31/Screenshot+2023-11-06+at+8.07.26%E2%80%AFPM.png",
+        "alt": "",
+        "dimensions": "1988x1112",
+        "src": "/images/original/4c12cdbb85aa.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/278f99f7-8ef7-428d-8885-a4558372e94d/Screenshot+2023-12-27+at+11.52.05%E2%80%AFAM.png",
+        "alt": "",
+        "dimensions": "2188x1210",
+        "src": "/images/original/5133b1c3d5ac.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/0fc411cd-fe37-4ab7-a363-22ecc0aeabbe/IMG_7482.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/c74920222f56.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/f979d124-4a06-4bfe-8aaf-5f57b8c54140/IMG_8097.jpg",
+        "alt": "",
+        "dimensions": "2151x1210",
+        "src": "/images/original/b4da5179efa5.jpg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/a33c3027-0587-4eb5-a4dc-6949ca71b85b/IMG_5374.jpg",
+        "alt": "",
+        "dimensions": "2204x1239",
+        "src": "/images/original/8a74f44dacc1.jpg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/7c3bc71a-7eba-4382-9522-efd5de7c5008/IMG_5962.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/893d73fe4c8b.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/138852e4-d365-4620-9d62-0546de1ac748/IMG_2790.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/1852b3006d9b.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/f982d6c0-6783-465f-a217-3258c2e5fac1/IMG_8751.jpg",
+        "alt": "",
+        "dimensions": "2098x1180",
+        "src": "/images/original/eac6e08b643a.jpg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/f40c10f3-cd88-438a-99fc-a3ea75eaf91b/IMG_4951.jpg",
+        "alt": "",
+        "dimensions": "2038x1140",
+        "src": "/images/original/5852652bd4b3.jpg"
+      }
+    ]
+  },
+  {
+    "slug": "bbrband",
+    "blocks": [
+      {
+        "type": "button",
+        "text": "book us here!",
+        "href": "mailto:info@gocreativeprograms.com?subject=Booking%20BBR%20Band!&bcc=hamlet%40miamigohamlet.com"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/81e00659-4792-4287-9262-43f886bd99b0/IMG_6261.jpeg",
+        "alt": "",
+        "dimensions": "2025x905",
+        "src": "/images/original/83fda9abc2eb.jpeg"
+      },
+      {
+        "type": "text",
+        "html": "\n  <h3><strong>Introducing the BBR Band</strong>, where the magic of Being Bilingual Rocks! comes ALIVE! </h3><p>Helmed by nationally renowned Parents Choice Award Winners and recording artists, <a href=\"https://open.spotify.com/artist/6O5HpUvcbfhu4RRDsQB4XQ?si=1WKLLnOiQeSp9qa9H9iqJA\"><strong>Mi Amigo Hamlet</strong></a> and <a href=\"https://open.spotify.com/artist/7F6tC1pdqBhUCi7AbfNxz6?si=8JlMrcqRQAO3qZs--KC0ug\"><strong>Alina Celeste</strong></a>, this dynamic ensemble is further enriched by the musical prowess of GRAMMY® nominated Chicago music producer, <a href=\"https://www.richrankinmusic.com/\"><strong>Richard Rankin</strong></a>, and the soulful blues rock guitar skills of Leo Walsh.</p><p>Together, they craft a captivating tapestry of music, seamlessly blending original compositions with traditional songs from Latin America. </p><p>The BBR Band invites families on an enchanting musical odyssey, fusing Latin rhythms, bossanova vibes, rumba-flamenco grooves, contemporary Caribbean beats, and a touch of blues rock and bluegrass flavors. Get ready to be immersed in a diverse and electrifying sonic experience that transcends boundaries and celebrates the beauty of bilingualism!</p>\n",
+        "text": "Introducing the BBR Band, where the magic of Being Bilingual Rocks! comes ALIVE! Helmed by nationally renowned Parents Choice Award Winners and recording artists, Mi Amigo Hamlet and Alina Celeste, this dynamic ensemble is further enriched by the musical prowess of GRAMMY® nominated Chicago music producer, Richard Rankin, and the soulful blues rock guitar skills of Leo Walsh.Together, they craft a captivating tapestry of music, seamlessly blending original compositions with traditional songs from Latin America. The BBR Band invites families on an enchanting musical odyssey, fusing Latin rhythms, bossanova vibes, rumba-flamenco grooves, contemporary Caribbean beats, and a touch of blues rock and bluegrass flavors. Get ready to be immersed in a diverse and electrifying sonic experience that transcends boundaries and celebrates the beauty of bilingualism!"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/418203d2-2a1d-44b6-90d0-ed6ecf4da9f0/IMG_6115.jpeg",
+        "alt": "",
+        "dimensions": "2689x1290",
+        "src": "/images/original/e562c52c21a2.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/caaaa8b7-dec9-48cf-a1ce-2a12f9bd2e0b/RAR_0705.jpg",
+        "alt": "",
+        "dimensions": "3000x1997",
+        "src": "/images/original/613d4e3ff655.jpg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/de3be587-1e13-4e8c-a86a-bf8525ae4401/BAR_5582.jpg",
+        "alt": "",
+        "dimensions": "3000x2250",
+        "src": "/images/original/d70c0b54cadd.jpg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/65df499e-1658-4dc4-8eb2-bed92c623cad/HLYUHTEDQNDFFE3GHTQ2QO46NY.jpg",
+        "alt": "",
+        "dimensions": "600x400",
+        "src": "/images/original/0cbe9c2ddeb7.jpg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/6e5222f4-58aa-4b45-90b8-8a043b54775c/IMG_6196.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/d5df6f1dbd26.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/24533b3f-8a09-426d-a8af-e8c0bd782d25/IMG_6189.jpeg",
+        "alt": "",
+        "dimensions": "2268x4032",
+        "src": "/images/original/3b6577473a6c.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/e3e5d8ce-096b-4723-8e2b-3e317038f459/IMG_6202.jpeg",
+        "alt": "",
+        "dimensions": "2268x4032",
+        "src": "/images/original/305997a1e546.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/091a7bef-cf77-414a-bf25-c2741f2ad102/IMG_6227.jpeg",
+        "alt": "",
+        "dimensions": "2268x4032",
+        "src": "/images/original/f54fe1188eb8.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/ff2a4cc9-02fe-4352-aef4-a8818f8aeea0/IMG_6253.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/5c7f1d9b5bed.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/53d26ddc-0098-4e00-aba8-f385f06da72c/BAR_5591.jpg",
+        "alt": "",
+        "dimensions": "3000x2250",
+        "src": "/images/original/63b0429a09f4.jpg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/88e32cb7-ad0b-4b81-8745-921715d82493/BAR_2578.jpg",
+        "alt": "",
+        "dimensions": "3000x2000",
+        "src": "/images/original/0c943aa12103.jpg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/bfe6c6b5-6e70-4e95-994a-e45e931dc989/CB766A98-5927-404C-AF16-FC40AF5782CD_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "1842x1134",
+        "src": "/images/original/fd89b9dba408.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/0dac1222-bdac-4f66-9222-83dc8ddd3122/BBR+Band+2024-1.png",
+        "alt": "",
+        "dimensions": "1200x1200",
+        "src": "/images/original/54804519959e.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/d24fee03-dfdd-4c1d-b1a3-c9ea6ef10a75/C65A6486-71FD-4517-9DAC-F04FC7149981_1_105_c.jpeg",
+        "alt": "",
+        "dimensions": "1162x676",
+        "src": "/images/original/447de9582b8d.jpeg"
+      },
+      {
+        "type": "button",
+        "text": "book us here!",
+        "href": "mailto:info@gocreativeprograms.com?subject=Booking%20the%20Awesome%20BBR!%20Band&&bcc=hamlet%40miamigohamlet.com"
+      }
+    ]
+  },
+  {
+    "slug": "new-page-2",
+    "blocks": [
+      {
+        "type": "button",
+        "text": "BOOK US TODAY!",
+        "href": "mailto:INFO@gocreativeprograms.com?subject=I%20am%20interested%20in%20your%20Programs"
+      },
+      {
+        "type": "text",
+        "html": "\n  <h2><strong>our current workshops</strong></h2><h3><strong>Art with Families: What Will You Create Today?</strong> </h3><p>In this two-part art and music program, we integrate an art project into a music concert, using the creation of visual art </p><p>as a vehicle for learning and practicing Spanish while also making music as a community.</p><h3><strong>Art &amp; Music Story Hour</strong></h3><p>A workshop for famiilies incorporating musical story time based on a picture book, a related art project, songs and games.</p><p>Literacy skills are taught through three mediums: music, reading and visual art where everyone leaves with unique creations!</p><h3><strong>Arts Español Video Series</strong></h3><p>In this series, we work together on a variety of art projects that include mixed media techniques, songs, poems, STEM concepts, literacy skills, and cultural exploration. Each program is customized to your needs, but always includes learning and practicing relevant Spanish vocabulary. </p><p>These videos can be uploaded to your library Youtube channel, or other Social Media platforms, or closed circuit television networks. We offer licensing agreements and bespoke content.</p><h3><strong>Paper Mosaic</strong> </h3><p>In this creative bilingual workshop, kids and families come together, using mosaic techniques with paper, encouraging math literacy through working with simple patterns to build unique works of art.  </p>\n",
+        "text": "our current workshopsArt with Families: What Will You Create Today? In this two-part art and music program, we integrate an art project into a music concert, using the creation of visual art as a vehicle for learning and practicing Spanish while also making music as a community.Art & Music Story HourA workshop for famiilies incorporating musical story time based on a picture book, a related art project, songs and games.Literacy skills are taught through three mediums: music, reading and visual art where everyone leaves with unique creations!Arts Español Video SeriesIn this series, we work together on a variety of art projects that include mixed media techniques, songs, poems, STEM concepts, literacy skills, and cultural exploration. Each program is customized to your needs, but always includes learning and practicing relevant Spanish vocabulary. These videos can be uploaded to your library Youtube channel, or other Social Media platforms, or closed circuit television networks. We offer licensing agreements and bespoke content.Paper Mosaic In this creative bilingual workshop, kids and families come together, using mosaic techniques with paper, encouraging math literacy through working with simple patterns to build unique works of art."
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/2c160572-e537-4bde-822f-b07ab540faa3/34FB23CF-3866-4342-9E32-3F643C71A062_1_105_c.jpeg",
+        "alt": "",
+        "dimensions": "1182x665",
+        "src": "/images/original/994c48dbb0f0.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/8995cbef-3712-4c96-8a1b-26228f112d9e/C9545463-8281-476C-B340-F7B8D89EF917_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/f89d80dc9101.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/749d3b6b-65bb-4e09-a36f-d4d14e2fe7a5/IMG_8208.jpg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/679b4d290941.jpg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/6f323c6e-fc86-49d9-92ee-cb77201fa39c/Screenshot+2023-09-07+at+11.07.23+AM.png",
+        "alt": "",
+        "dimensions": "1708x1002",
+        "src": "/images/original/c345fd55dd58.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/b85742b4-3cb3-4adc-853a-ec77c36c0d1e/42DACCB1-12C1-4C09-9320-B5E51A3C858C_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/358f5014acc3.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/1a49f6a9-50fc-4d00-9a5d-9702cd6274e7/C182B758-30AB-4CCD-87E9-149829E897B9_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "5712x3213",
+        "src": "/images/original/cbf851a5edc1.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/e0643599-65c3-4c74-88ba-424b36b9581b/CDF41AEB-1885-4F91-A3AF-FCCBAEBC442A_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/3618ec64dde8.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/c946641a-251e-4070-8e87-35b00c3f6b31/2DC3FDD4-BB75-45B9-99E7-1CEA2D46A785_1_105_c.jpeg",
+        "alt": "",
+        "dimensions": "1024x768",
+        "src": "/images/original/64ba5162aabc.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/4eb90cb0-c4e9-4330-ae8f-7325c1f6010e/532CF104-469B-42C6-A4A9-70CA675F53E4_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/c0381b20644d.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/f8999c19-3aa7-445a-9131-7370a3d83d5f/FDCDB041-B05F-4DC3-978D-A33B8CD50C80_1_201_a.jpeg",
+        "alt": "",
+        "dimensions": "4032x2268",
+        "src": "/images/original/1a56a2e75454.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/fb2e9e0a-fbaf-4240-80bc-cd5da1c31445/Screenshot+2023-08-14+at+4.13.51+PM.png",
+        "alt": "",
+        "dimensions": "1098x781",
+        "src": "/images/original/e3d4d44659bb.png"
+      }
+    ]
+  },
+  {
+    "slug": "collaborations",
+    "blocks": [
+      {
+        "type": "button",
+        "text": "Now Booking For 2026 and 2027!",
+        "href": "mailto:info@gocreativeprograms.com?cc=hamlet%40gocreativeprograms.com"
+      },
+      {
+        "type": "text",
+        "html": "\n  <h2><strong>Trusted By Schools, Libraries, park districts, museums &amp; cultural institutions, community organizations, family festivals &amp; educational events For Over 25 Years</strong></h2><p>Our programs are designed to create joyful, memorable educational experiences that connect children and families through creativity, culture, language, and the arts.</p><p></p><p>These are just a few of the organizations we’ve had the pleasure of working with: </p><ul><li><p>WQPT PBS Imagination Station </p></li><li><p>La Cosecha Dual Language Conferences</p></li><li><p>Berwyn South D100</p></li><li><p>Multilingual Programs CCSD 15</p></li><li><p>Birth to Threes SD88</p></li><li><p>Museum of Contemporary Art, Chicago</p></li><li><p>Paridad Consulting </p></li><li><p>Chicago Public Libraries </p></li><li><p>Reaching Forward</p></li><li><p>Chapel Hill Public Library </p></li><li><p>Chatham Community Library </p></li><li><p>Los Angeles County Libraries </p></li><li><p>The Alvin Sherman Library at Nova Southeastern University </p></li><li><p>Star Net Regions 1,2,3, and 6 of Illinois, </p></li><li><p>Daniel Boone Library District</p></li><li><p>Woodstock Association</p></li><li><p>Miami Children’s Museum, Miami, FL </p><p>Kent District Public Library, Grand Rapids, MI </p></li><li><p>Lacrosse County Library, Holmen, WI</p></li><li><p>Harkness House For Children, Winnetka, IL </p></li><li><p>Sonnets Academy, Chicago, IL </p></li><li><p>Louisa May Alcott Public School , Chicago, IL </p></li><li><p>Barnes &amp; Noble, Chicago, IL </p></li><li><p>Winnetka Community House, Winnetka, IL </p></li><li><p>Winnetka Public School Nursery, Winnetka, IL </p></li><li><p>Sacred Heart School, Winnetka, IL </p></li><li><p>DayStar School, Chicago, IL </p></li><li><p>Salem Christian School, Chicago, IL </p></li><li><p>Old Town School Of Folk Music , Chicago, IL </p></li><li><p>Children’s Memorial Hospital, Chicago, IL </p></li><li><p>Ann &amp; Robert H. Lurie Children&#x27;s Hospital of Chicago, IL </p></li><li><p>Instituto Cervantes, Chicago IL</p></li><li><p>Saint Francis Xavier School, Wilmette</p></li><li><p>Saint Joan of Arc School, Evanston, IL</p></li><li><p>Niklaus Miami Children’s Hospital</p></li><li><p>San Francisco Free Folk Festival</p></li><li><p>Schaumburg Township District Library</p></li><li><p>Mc Henry Public Library</p></li><li><p>La Puerta Abierta School, Santiago, Guatemala</p></li><li><p>Instituto Bilingüe Normal, Santiago Guatemala</p></li><li><p>Rowan County Public Library, North Carolina</p></li><li><p>High Point Public Library, North Carolina</p></li><li><p>The Children’s Music Network</p></li></ul>\n",
+        "text": "Trusted By Schools, Libraries, park districts, museums & cultural institutions, community organizations, family festivals & educational events For Over 25 YearsOur programs are designed to create joyful, memorable educational experiences that connect children and families through creativity, culture, language, and the arts.These are just a few of the organizations we’ve had the pleasure of working with: WQPT PBS Imagination Station La Cosecha Dual Language ConferencesBerwyn South D100Multilingual Programs CCSD 15Birth to Threes SD88Museum of Contemporary Art, ChicagoParidad Consulting Chicago Public Libraries Reaching ForwardChapel Hill Public Library Chatham Community Library Los Angeles County Libraries The Alvin Sherman Library at Nova Southeastern University Star Net Regions 1,2,3, and 6 of Illinois, Daniel Boone Library DistrictWoodstock AssociationMiami Children’s Museum, Miami, FL Kent District Public Library, Grand Rapids, MI Lacrosse County Library, Holmen, WIHarkness House For Children, Winnetka, IL Sonnets Academy, Chicago, IL Louisa May Alcott Public School , Chicago, IL Barnes & Noble, Chicago, IL Winnetka Community House, Winnetka, IL Winnetka Public School Nursery, Winnetka, IL Sacred Heart School, Winnetka, IL DayStar School, Chicago, IL Salem Christian School, Chicago, IL Old Town School Of Folk Music , Chicago, IL Children’s Memorial Hospital, Chicago, IL Ann & Robert H. Lurie Children's Hospital of Chicago, IL Instituto Cervantes, Chicago ILSaint Francis Xavier School, WilmetteSaint Joan of Arc School, Evanston, ILNiklaus Miami Children’s HospitalSan Francisco Free Folk FestivalSchaumburg Township District LibraryMc Henry Public LibraryLa Puerta Abierta School, Santiago, GuatemalaInstituto Bilingüe Normal, Santiago GuatemalaRowan County Public Library, North CarolinaHigh Point Public Library, North CarolinaThe Children’s Music Network"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/b75b7826-c94c-4a8f-aa1c-f08a53887d76/Starnet.png",
+        "alt": "",
+        "dimensions": "754x222",
+        "src": "/images/original/2248aff35bdd.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/81065b77-719f-4831-b759-b900cae8441a/aab0e6_46fa3e5755cf4a36b37b3d83802f30e9.gif",
+        "alt": "",
+        "dimensions": "304x287",
+        "src": "/images/original/69c13796f3ba.gif"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/e7f35fbf-a3ff-4ad6-8ea5-f3c7c9198f02/MiamiChildrensMuseum.png",
+        "alt": "",
+        "dimensions": "688x158",
+        "src": "/images/original/548fea881541.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/2370a88f-440c-4311-b754-83e93f99115b/High+Point.png",
+        "alt": "",
+        "dimensions": "141x71",
+        "src": "/images/original/d0d91ac5f939.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/1fbdac8f-8e5a-4899-8d15-bdca6c1e791a/HarknessHouse.png",
+        "alt": "",
+        "dimensions": "308x96",
+        "src": "/images/original/fb92939abe18.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/a123aa46-2934-490c-87a0-2bdefecc7af2/chicagopubliclibrary.png",
+        "alt": "",
+        "dimensions": "500x120",
+        "src": "/images/original/46288c14c537.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/91db410f-915c-4402-90a2-a71c2d8144a6/KentDistrictLibrary.png",
+        "alt": "",
+        "dimensions": "500x120",
+        "src": "/images/original/3a4d39f20b74.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/12448338-c200-48e1-91c6-4cf4ae047ec7/Cervantes.gif",
+        "alt": "",
+        "dimensions": "202x39",
+        "src": "/images/original/c890cdf0c9ed.gif"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/22e21cef-27a4-4ce1-8c47-8ecebc9ee385/logo-text.png",
+        "alt": "",
+        "dimensions": "774x51",
+        "src": "/images/original/2ab398a5513f.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/6737feb0-1cae-420d-a5c7-1fc6f1a7950f/WQPT-PBS.png",
+        "alt": "",
+        "dimensions": "570x176",
+        "src": "/images/original/d3369ea52116.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/c55c8bba-0040-493c-b543-d876a6fb53f9/logo.png",
+        "alt": "",
+        "dimensions": "1150x300",
+        "src": "/images/original/9f9a5009c7c7.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/98df5e68-f510-4aa8-9a0e-f2a8d8dcfe55/Alvin+Sherman+Library.png",
+        "alt": "",
+        "dimensions": "624x128",
+        "src": "/images/original/cc37abf51751.png"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/258d1055-bcab-45c8-896e-ef31ce4aa725/Screenshot+2023-12-06+at+7.49.56%E2%80%AFPM.png",
+        "alt": "",
+        "dimensions": "396x222",
+        "src": "/images/original/8868e7a9b94e.png"
+      }
+    ]
+  },
+  {
+    "slug": "about-us",
+    "blocks": [
+      {
+        "type": "text",
+        "html": "\n  <h1><strong>ELECTRONIC PRESS KIT (EPK)</strong></h1>\n",
+        "text": "ELECTRONIC PRESS KIT (EPK)"
+      },
+      {
+        "type": "text",
+        "html": "\n  <p><strong>BIOS</strong></p><p><br/></p><p>Alina Celeste and Mi Amigo Hamlet are both Parents&#x27; Choice Gold Award Winners for their bilingual music for kids and families. </p><p>Guatemalan born and multimedia artist,<strong> Hamlet (Mi Amigo Hamlet)</strong> has provided bilingual arts and music programs in the Chicagoland area since 2001. His debut album, &quot;Happy Land is Tierra Feliz,&quot; not only resonated with families but also garnered critical acclaim, earning a spot in Billboard’s Best Latin Albums for kids in 2018 – a testament to his ability to connect with audiences across generations and cultures.</p><p>Cuban-American <strong>Alina Celeste</strong> has taught early childhood music and arts classes and toured internationally since 2009, her YouTube Channel was launched in 2015 and won a Parent’s Choice Gold Award in 2018. Her ability to blend education with entertainment has made her a beloved figure in the world of children&#x27;s music.</p><p><strong>Together</strong>, as <strong>GoCreative Programs</strong> they tour nationwide, providing their joyous, inclusive <strong><em>Being Bilingual Rocks!</em></strong> concert series, Professional Development workshops for educators and librarians, and engaging Art workshops for families, making learning a joyous and inclusive experience.</p><p>Their discography, featuring four bilingual albums – &quot;Happy Land Is Tierra Feliz,&quot; &quot;Love is Te Quiero,&quot; &quot;Today is a Good Day,&quot; and &quot;Hoy es un Buen Día&quot; – is a treasure trove of multicultural melodies, available on platforms like Spotify, Apple Music, and Amazon Music.</p><p>They were honored as Jubilation Foundation fellows in 2020 and they were recognized as “Helpers” by the Parents’ Choice Foundation for their invaluable contribution of daily, live, bilingual classes on YouTube and Instagram, bringing learning and joy into homes during a time of uncertainty.</p>\n",
+        "text": "BIOSAlina Celeste and Mi Amigo Hamlet are both Parents' Choice Gold Award Winners for their bilingual music for kids and families. Guatemalan born and multimedia artist, Hamlet (Mi Amigo Hamlet) has provided bilingual arts and music programs in the Chicagoland area since 2001. His debut album, \"Happy Land is Tierra Feliz,\" not only resonated with families but also garnered critical acclaim, earning a spot in Billboard’s Best Latin Albums for kids in 2018 – a testament to his ability to connect with audiences across generations and cultures.Cuban-American Alina Celeste has taught early childhood music and arts classes and toured internationally since 2009, her YouTube Channel was launched in 2015 and won a Parent’s Choice Gold Award in 2018. Her ability to blend education with entertainment has made her a beloved figure in the world of children's music.Together, as GoCreative Programs they tour nationwide, providing their joyous, inclusive Being Bilingual Rocks! concert series, Professional Development workshops for educators and librarians, and engaging Art workshops for families, making learning a joyous and inclusive experience.Their discography, featuring four bilingual albums – \"Happy Land Is Tierra Feliz,\" \"Love is Te Quiero,\" \"Today is a Good Day,\" and \"Hoy es un Buen Día\" – is a treasure trove of multicultural melodies, available on platforms like Spotify, Apple Music, and Amazon Music.They were honored as Jubilation Foundation fellows in 2020 and they were recognized as “Helpers” by the Parents’ Choice Foundation for their invaluable contribution of daily, live, bilingual classes on YouTube and Instagram, bringing learning and joy into homes during a time of uncertainty."
+      },
+      {
+        "type": "text",
+        "html": "\n  <p><strong>DISCOGRAPHY</strong></p><p><br/></p>\n",
+        "text": "DISCOGRAPHY"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/1629670781465-AREH6X9UUXANQHXS1P1N/01-Today-is-a-good-day---CDBaby.jpg",
+        "alt": "",
+        "dimensions": "2500x2500",
+        "src": "/images/original/9af9d1efbad9.jpg"
+      },
+      {
+        "type": "button",
+        "text": "listen here",
+        "href": "https://open.spotify.com/album/30icxuMNCLvvxGzqopTjLd?si=gqR6k3NNSEe13IaUelz-tA"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/1629670693967-CYFI1SGK9OM4FGBONTGB/01-Front-Cover---CD-Baby-.jpg",
+        "alt": "",
+        "dimensions": "2500x2500",
+        "src": "/images/original/275536b6cd8e.jpg"
+      },
+      {
+        "type": "button",
+        "text": "Listen here",
+        "href": "https://open.spotify.com/album/3HHMvCvimSdIG5WAUtmo93?si=p2_pQUqpQAmuywbsfLKVQQ"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/0acf1a7a-d9b1-4ed2-8667-27330778f4d7/JPEG+image-5B839DD755BB-1.jpeg",
+        "alt": "",
+        "dimensions": "1511x1511",
+        "src": "/images/original/d631045493e4.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/459a2423-6d32-44ab-82e4-c4352501bb73/download.jpg",
+        "alt": "",
+        "dimensions": "225x225",
+        "src": "/images/original/199dac176d7b.jpg"
+      },
+      {
+        "type": "button",
+        "text": "Listen Here",
+        "href": "https://open.spotify.com/album/5U9epD6w4kviIUgbjKkEB9?si=LKUCsQZkRtqsdi7dAr1yrA"
+      },
+      {
+        "type": "button",
+        "text": "Listen here",
+        "href": "https://open.spotify.com/artist/7F6tC1pdqBhUCi7AbfNxz6?si=o6jCJheURwKhvKy1NaoBjg"
+      },
+      {
+        "type": "text",
+        "html": "\n  <p><strong>THEIR YOUTUBE CHANNEL LINKS</strong></p><p></p>\n",
+        "text": "THEIR YOUTUBE CHANNEL LINKS"
+      },
+      {
+        "type": "video",
+        "urls": [
+          "https://www.youtube.com/embed/UcgkRg5fGxg?feature=oembed"
+        ]
+      },
+      {
+        "type": "video",
+        "urls": [
+          "https://www.youtube.com/embed/cHmhBs3f96c?feature=oembed"
+        ]
+      },
+      {
+        "type": "text",
+        "html": "\n  <p><strong>PRESS QUALITY PHOTOS</strong></p><p></p>\n",
+        "text": "PRESS QUALITY PHOTOS"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/22ad71c5-c85d-49f8-a108-1f2f7f4e9cd9/DSC00218.jpg",
+        "alt": "",
+        "dimensions": "2209x3396",
+        "src": "/images/original/0e62b21c7b86.jpg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/b31029e9-81bc-43d1-80f0-43a2ab648d52/DSC00216-2.jpg",
+        "alt": "",
+        "dimensions": "1943x3009",
+        "src": "/images/original/9e596902b69b.jpg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/ad77ae21-fc92-40e7-acae-cb55e43e08b0/DSCF3667.jpeg",
+        "alt": "",
+        "dimensions": "3150x2100",
+        "src": "/images/original/04223378373d.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/f8d24764-47e5-41a8-a6b8-778d49c89457/DSC00221.jpg",
+        "alt": "",
+        "dimensions": "4218x2911",
+        "src": "/images/original/b1aad8db78bd.jpg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/c485c7c7-7341-495b-85ed-ec5695e63502/Door_2MB.jpeg",
+        "alt": "",
+        "dimensions": "1850x1233",
+        "src": "/images/original/66d3b3aa1899.jpeg"
+      },
+      {
+        "type": "image",
+        "source": "https://images.squarespace-cdn.com/content/v1/52deffc2e4b0165db5a19c8f/3b30a0b0-47a4-4030-9f81-28ca15ac1c03/DSCF3703.jpeg",
+        "alt": "",
+        "dimensions": "2100x3150",
+        "src": "/images/original/b070c515c430.jpeg"
+      },
+      {
+        "type": "button",
+        "text": "BOOK US TODAY",
+        "href": "mailto:info@gocreativeprograms.com"
+      }
+    ]
+  }
+]
