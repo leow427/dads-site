@@ -11,6 +11,12 @@ npm run dev -- --hostname 127.0.0.1 --port 3000
 
 Open the local URL printed by the development server. `npm run build` creates a production build.
 
+## Vercel deployment
+
+Public concept: https://gocreative-programs-concept.vercel.app
+
+`vercel.json` configures a native Next.js build for Vercel. Run `npm run build:vercel` to check that build locally, then use `npx vercel --prod` from this directory to publish to the linked Vercel project. Vercel supplies the public `vercel.app` address. The original Vinext development and Sites build commands remain available.
+
 ## Content and music
 
 The program descriptions, photos, partner logos, biography, contact information, and awards are sourced from https://gocreativeprograms.com/new-page and its linked program and press pages. The advisory board has been omitted. The full original content is preserved in dedicated pages with the original navigation. All 14 original Trusted by logos appear on the home page. See CONTENT-SOURCES.md for the page inventory and source details.
